@@ -19,5 +19,10 @@ public class Fibonacci {
             t2 = sum;
         }
     }
+    
+    public void addSum(){
+       
+        
+    }
 }
 
