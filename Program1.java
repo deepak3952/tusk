@@ -24,5 +24,10 @@ public class Fibonacci {
        
         
     }
+    
+     public void addDiv(){
+       
+        
+    }
 }
 
